@@ -1,14 +1,14 @@
 # Python Pro Bootcamp - 100 days of Code
 
-Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.
+Consist of building 100 projects in 100 days. Learning data science, automation, web development, games and apps.
 
-The course is taught by Dr. **Angela Yu**, Developer and Lead Instructor at the App Brewery, London's best in-person programming Bootcamp.
+The course is taught by **Dr. Angela Yu**, Developer and Lead Instructor at the App Brewery, London's best in-person programming Bootcamp.
 
 ## Skills
 
-- Be able to program in Python professionally
-- Be able to use Python for data science and machine learning
-- Build GUIs and Desktop applications with Python
+- Be able to program in Python professionally.
+- Be able to use Python for data science and machine learning.
+- Build GUIs and Desktop applications with Python.
 - Learn automation, game, app and web development, data science and machine learning.
 - Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
 
