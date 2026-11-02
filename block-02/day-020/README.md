@@ -4,5 +4,5 @@
 - Animating the snake segments on screen.
 - Create a Snake Class and move to OOP.
 - Control the snake with a Keypress.
-## Turtle Race Project
+## Showcase
 ![Day 20](../../assets/day-020.gif)
