@@ -80,7 +80,6 @@ while not game_over:
     if guess in correct_letters:
         print(f"You've already guessed '{guess}'.")
 
-
     # Display the guess letter in the right positions
     display = ""
     for letter in chosen_word:
