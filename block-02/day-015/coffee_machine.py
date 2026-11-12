@@ -23,16 +23,15 @@ MENU = {
         "cost": 3.0,
     }
 }
-
 resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
 }
-profit = 0
 money = {
     "value": 0,
 }
+profit = 0
 
 def is_resource_sufficient(order_ingredients):
     """Returns True when order can be made, False if ingredients are insufficient."""
