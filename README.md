@@ -67,3 +67,4 @@ The course is taught by **Dr. Angela Yu**, Developer and Lead Instructor at the 
 - [Day 25:](./block-03/day-025/README.md) Working with CSV Data and the Pandas Library.
 - [Day 26:](./block-03/day-026/README.md) List Comprehension and the NATO Alphabet.
 - [Day 27:](./block-03/day-027/README.md) Tkinter, *args, **kwargs and Creating GUI Programs.
+- [Day 28:](./block-03/day-028/README.md) Tkinter, Dynamic Typing and the Pomodoro GUI Application.
