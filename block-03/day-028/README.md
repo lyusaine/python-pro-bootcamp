@@ -1,4 +1,4 @@
-# Tkinter, Dynamic Typing and the Pomodoro GUI Application.
+# Tkinter, Dynamic Typing and the Pomodoro GUI Application
 ## Concepts
 - Working with Canvas widget and add images to Tkinter.
 - Adding a count down mechanism.
