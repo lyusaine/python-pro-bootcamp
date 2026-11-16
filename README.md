@@ -70,3 +70,6 @@ The course is taught by **Dr. Angela Yu**, Developer and Lead Instructor at the 
 - [Day 28:](./block-03/day-028/README.md) Tkinter, Dynamic Typing and the Pomodoro GUI Application.
 - [Day 29:](./block-03/day-029/README.md) Building a Password Manager GUI App with Tkinter.
 - [Day 30:](./block-03/day-030/README.md) Errors, Exceptions and JSON Data: Improving the Password Manager.
+
+**Block 4:**
+- [Day 31:](./block-04/day-031/README.md) Flash Card App Capstone Project.
