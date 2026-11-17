@@ -73,3 +73,4 @@ The course is taught by **Dr. Angela Yu**, Developer and Lead Instructor at the 
 
 **Block 4:**
 - [Day 31:](./block-04/day-031/README.md) Flash Card App Capstone Project.
+- [Day 32:](./block-04/day-032/README.md) Send Email (smtplib) & Manage Dates (datetime).
